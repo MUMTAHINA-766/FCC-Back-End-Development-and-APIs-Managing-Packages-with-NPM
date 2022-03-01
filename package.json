@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Mumtahina",
+	"dependencies": {
+		"express": "^4.14.0",
+    "moment": "^2.10.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "freecodecamp", "words" ],
+  "license": "MIT",
+  "version": "1.2.0"
+}
